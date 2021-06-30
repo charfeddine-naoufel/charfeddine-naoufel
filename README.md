@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @charfeddine-naoufel
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning laravel
+- 🌱 I’m currently developing with laravel
 - 💞️ I’m looking to collaborate on livewire project
 - 📫 How to reach me ...
 
